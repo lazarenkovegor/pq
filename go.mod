@@ -1,5 +1,3 @@
 module github.com/nanoKater/pq
 
-go 1.13
-
-require github.com/lib/pq v1.3.0
+go 1.14
