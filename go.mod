@@ -1,4 +1,4 @@
-module github.com/lazarenkovegor/pq
+module github.com/nanoKater/pq
 
 go 1.13
 
