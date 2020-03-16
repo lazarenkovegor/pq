@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	_ "github.com/nanoKater/pq"
+	_ "github.com/lazarenkovegor/pq"
 )
 
 type Fatalistic interface {

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/nanoKater/pq"
+	"github.com/lazarenkovegor/pq"
 )
 
 func ExampleConnectorWithNoticeHandler() {

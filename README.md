@@ -1,16 +1,16 @@
 # pq - A pure Go postgres driver for Go's database/sql package
 
-[![GoDoc](https://godoc.org/github.com/nanoKater/pq?status.svg)](https://godoc.org/github.com/nanoKater/pq)
+[![GoDoc](https://godoc.org/github.com/lazarenkovegor/pq?status.svg)](https://godoc.org/github.com/lazarenkovegor/pq)
 [![Build Status](https://travis-ci.org/lib/pq.svg?branch=master)](https://travis-ci.org/lib/pq)
 
 ## Install
 
-	go get github.com/nanoKater/pq
+	go get github.com/lazarenkovegor/pq
 
 ## Docs
 
 For detailed documentation and basic usage examples, please see the package
-documentation at <http://godoc.org/github.com/nanoKater/pq>.
+documentation at <http://godoc.org/github.com/lazarenkovegor/pq>.
 
 ## Tests
 

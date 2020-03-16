@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/nanoKater/pq/oid"
+	"github.com/lazarenkovegor/pq/oid"
 )
 
 func TestDataTypeName(t *testing.T) {
